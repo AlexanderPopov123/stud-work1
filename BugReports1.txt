@@ -1,4 +1,4 @@
-Project:
+ID:
 Version:
 Component:
 Summary:
